@@ -8,9 +8,9 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/jpillora/chisel/client"
-	"github.com/jpillora/chisel/server"
-	chshare "github.com/jpillora/chisel/share"
+	"github.com/karimodm/chisel/client"
+	"github.com/karimodm/chisel/server"
+	chshare "github.com/karimodm/chisel/share"
 )
 
 var help = `
@@ -23,7 +23,7 @@ var help = `
     client - runs chisel in client mode
 
   Read more:
-    https://github.com/jpillora/chisel
+    https://github.com/karimodm/chisel
 
 `
 
@@ -76,7 +76,7 @@ var commonHelp = `
     ` + chshare.BuildVersion + `
 
   Read more:
-    https://github.com/jpillora/chisel
+    https://github.com/karimodm/chisel
 
 `
 

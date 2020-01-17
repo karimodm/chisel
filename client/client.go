@@ -14,7 +14,7 @@ import (
 	"github.com/armon/go-socks5"
 	"github.com/gorilla/websocket"
 	"github.com/jpillora/backoff"
-	"github.com/jpillora/chisel/share"
+	"github.com/karimodm/chisel/share"
 	"golang.org/x/crypto/ssh"
 )
 
